@@ -1,9 +1,9 @@
-Six-Keypoint Part Annotations for MAR20 and MTARSI
-Six aircraft-relative semantic keypoints annotated on top of two public fine-grained
+Six-Keypoint Part Annotations for MAR20,FAIR1M-1.0 and MTARSI
+Six aircraft-relative semantic keypoints annotated on top of three public fine-grained
 aircraft benchmarks, released with the paper SSP-Det: Sparse Semantic Part Priors for
-Generalized Few-Shot Aircraft Detection in Remote-Sensing Images.
+Generalized Few-Shot Aircraft Detection in Remote-Sensing Images and PAP-Det: Part-Attribute Prototypes for Generalized Few-Shot and Class-Incremental Fine-Grained Aircraft Detection in Remote Sensing Images.
 This repository contains annotations only. It does not redistribute the source imagery —
-MAR20 and MTARSI must be obtained from their original providers (see Source data).
+MAR20 ,FAIR1M-1.0 and MTARSI must be obtained from their original providers (see Source data).
 ---
 Keypoint definition
 Left and right are defined in an aircraft-relative coordinate system, i.e. from the
